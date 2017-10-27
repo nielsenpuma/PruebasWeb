@@ -1,0 +1,8 @@
+/build/
+# Eclipse
+PruebasWebGit02/*.project
+.classpath
+.project
+.settings/
+bin/
+target/
